@@ -181,10 +181,10 @@
 </dependencies>
 </dependencyManagement>
 <scm>
-<connection>scm:git:git@github.com:jleetutorial/maven-project.git</connection>
-<developerConnection>scm:git:git@github.com:jleetutorial/maven-project.git</developerConnection>
+<connection>scm:git:git@github.com:Praj0496/Jenkins-Tomcat-Project.git</connection>
+<developerConnection>scm:git:git@github.com:Praj0496/Jenkins-Tomcat-Project.git</developerConnection>
 <tag>HEAD</tag>
-<url>http://github.com/jleetutorial/maven-project</url>
+<url>http://github.com/Praj0496/Jenkins-Tomcat-Project/url>
 </scm>
 <prerequisites>
 <maven>3.0.3</maven>
